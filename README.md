@@ -1,7 +1,7 @@
 # Turkpin API Entegrasyon Projesi
 
 <p align="center">
-  <img src="https://assets.turkpin.com/logo/white.webp" alt="Turkpin Logo" width="200"/>
+  <img src="https://assets.turkpin.com/logo/dark.webp" alt="Turkpin Logo" width="200"/>
 </p>
 
 <p align="center">
