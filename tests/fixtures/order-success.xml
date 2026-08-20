@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<APIResponse>
+    <params>
+        <HATA_NO>000</HATA_NO>
+        <HATA_ACIKLAMA>Islem Basarili</HATA_ACIKLAMA>
+        <siparisSonuc>Success</siparisSonuc>
+        <epin_list>
+            <epin>
+                <code>TEST-CODE-001</code>
+                <desc>Test Product</desc>
+                <id>2879</id>
+            </epin>
+        </epin_list>
+        <siparisTutari>0.001</siparisTutari>
+        <siparisNo>25031013105101</siparisNo>
+    </params>
+</APIResponse>
